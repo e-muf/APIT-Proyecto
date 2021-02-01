@@ -16,3 +16,15 @@ El clasificador propuesto en el presente escrito toma como base los tweets para 
 ### Planteamiento del Problema (Biden vs Trump)
 
 La clasificación de textos, en entornos en los que el volumen de datos a clasificar es tan elevado que resulta muy costosa la realización de esta tarea por parte de humanos, requiere la utilización de clasificadores de textos en lenguaje natural automáticos. De manera más práctica imaginemos que se pudiera conocer el estado de ánimo de la gente en Internet, más especificos en Twitter. En la actualidad estudios científicos y psicológicos han confirmado que las redes sociales tienen una afectación en el estado de ánimo y la salud mental de las personas. Pero lo que más nos interesa en este punto, son los estados de ánimo que más se ven reflejados en Twitter, y más aún como estos estados de ánimo pueden llegar a afectar la elección de un presidente como lo es el caso de Estados Unidos, ¿Puede ayudar o perjudicar a un candidato a ser electo según el estado de ánimo reflejado?.En el desarrollo de este proyecto nosotros entrenaremos una red neuronal que nos pueda ayudar no solo a realizar la clasificación de textos sino también para verificar que tan bueno o perjudicial puede ser el reflejo de las emociones en Twitter.
+
+### Herramientas a Utilizar
+
+- Google Colab
+- Python V3
+- Keras (Python Framework)
+- MatplotLib (Python Framework)
+- Tweepy (Python Framework)
+- Tokenizer (Python Framework)
+- TextBlock (Python Framework)
+- Workout (Python Framework)
+
