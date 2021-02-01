@@ -8,6 +8,8 @@
 
 **Santiago Lópex Noelhy Sayury**
 
+![](https://www.atlahua.com/tesis/images/escudos.jpg)
+
 ### Introducción
 
 La clasificación de textos tiene entre todas sus particularidades una gran magnitud así como un desbalance entre categorías, lo que la distingue y la hace ser más complicada que la de otro tipo de datos, por ejemplo la clasificación de imágenes. En las últimas décadas, el manejo automático de documentos se ha transformado en el mayor campo de investigación en el área de la ciencia. 
@@ -28,3 +30,6 @@ La clasificación de textos, en entornos en los que el volumen de datos a clasif
 - TextBlock (Python Framework)
 - Workout (Python Framework)
 
+<img src="https://prod-discovery.edx-cdn.org/media/course/image/fa82aec4-f617-4efc-b64e-2855f1567df4-3c78499bb9f8.small.png" style="zoom:100%;" />
+
+<img src="https://blogs.iadb.org/conocimiento-abierto/wp-content/uploads/sites/10/2018/09/banner-smartreader-herramienta-de-analisis-de-texto.png" style="zoom:35%;" />
