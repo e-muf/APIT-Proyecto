@@ -1,6 +1,6 @@
-# Proyecto APIT
+# Proyect APIT
 
-### Integrantes
+### Members
 
 **Cabrera Garibaldi Hernán Galileo**
 
@@ -10,18 +10,21 @@
 
 ![](https://www.atlahua.com/tesis/images/escudos.jpg)
 
-### Introducción
+### Introduction
 
-La clasificación de textos tiene entre todas sus particularidades una gran magnitud así como un desbalance entre categorías, lo que la distingue y la hace ser más complicada que la de otro tipo de datos, por ejemplo la clasificación de imágenes. En las últimas décadas, el manejo automático de documentos se ha transformado en el mayor campo de investigación en el área de la ciencia. 
-El clasificador propuesto en el presente escrito toma como base los tweets para la creación de los corpus que define una categoría mediante técnicas de Procesamiento de Lenguaje Natural (NLP) que analizan sintácticamente los textos con la ayuda de Keras.Pero antes de llegar a este punto primero se realizará el entrenamiento de una red neuronal que ayudará a ver cómo es que se comporta la clasificación de textos en un ambiente más controlado. 
+The classification of texts has among all its particularities a great magnitude as well as an imbalance between categories, which distinguishes it and makes it more complicated than that of other types of data, for example the classification of images. In the last decades, automatic document handling has become the largest field of research in the area of science.
+
+The classifier proposed in this writing is based on the tweets for the creation of the corpus that defines a category using Natural Language Processing (NLP) techniques that parse the texts with the help of Keras, but before reaching this point First, the training of a neural network will be carried out, which will help to see how the classification of texts behaves in a more controlled environment.. 
 
 <img src="https://blogs.iadb.org/conocimiento-abierto/wp-content/uploads/sites/10/2018/09/banner-smartreader-herramienta-de-analisis-de-texto.png" style="zoom:35%;" />
 
-### Planteamiento del Problema (Biden vs Trump)
+### Problem Statement (Biden vs. Trump)
 
-La clasificación de textos, en entornos en los que el volumen de datos a clasificar es tan elevado que resulta muy costosa la realización de esta tarea por parte de humanos, requiere la utilización de clasificadores de textos en lenguaje natural automáticos. De manera más práctica imaginemos que se pudiera conocer el estado de ánimo de la gente en Internet, más especificos en Twitter. En la actualidad estudios científicos y psicológicos han confirmado que las redes sociales tienen una afectación en el estado de ánimo y la salud mental de las personas. Pero lo que más nos interesa en este punto, son los estados de ánimo que más se ven reflejados en Twitter, y más aún como estos estados de ánimo pueden llegar a afectar la elección de un presidente como lo es el caso de Estados Unidos, ¿Puede ayudar o perjudicar a un candidato a ser electo según el estado de ánimo reflejado?.En el desarrollo de este proyecto nosotros entrenaremos una red neuronal que nos pueda ayudar no solo a realizar la clasificación de textos sino también para verificar que tan bueno o perjudicial puede ser el reflejo de las emociones en Twitter.
+The classification of texts, in environments where the volume of data to be classified is so high that it is very expensive for humans to perform this task, requires the use of automatic natural language text classifiers. In a more practical way, let's imagine that the state of mind of people on the Internet could be known, more specifically on Twitter. 
 
-### Herramientas a Utilizar
+At present scientific and psychological studies have confirmed that social networks have an effect on the mood and mental health of people. But what interests us most at this point, are the moods that are most reflected on Twitter, and even more so, how these moods can affect the election of a president, as is the case in the United States. Can it help or harm a candidate to be elected according to the reflected state of mind? In the development of this project we will train a neural network that can help us not only to perform the classification of texts but also to verify how good or harmful it can be the reflection of emotions on Twitter.
+
+### Tools
 
 - Google Colab
 - Python V3
